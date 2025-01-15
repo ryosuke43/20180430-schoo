@@ -8,4 +8,4 @@ set :repo_url, "https://github.com/ryosuke43/20180430-schoo.git"
 #
 # あなたのWebサーバーの環境に合わせてデプロイ先ディレクトリパスを設定してください
 #
-set :deploy_to, "/var/www/schoo"
+set :deploy_to, "/home/ryosuke/projects/rudy/current"
